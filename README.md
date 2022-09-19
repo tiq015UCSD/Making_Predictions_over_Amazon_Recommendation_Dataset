@@ -1,4 +1,5 @@
 # Making Predictions over Amazon Recommendation Dataset
+- The link to the project: https://github.com/tiq015UCSD/Making_Predictions_over_Amazon_Recommendation_Dataset/blob/main/Tian_Qin_NLP.ipynb
 ## Scenario
 Natural Language processing skills are very useful when conducting analysis ontext data. A typical use case would be extracting sentiment from customer
 feedback on certain products. The feedback could be comments on the websites, conversation log with customer support .Eg. Amazon launched a newproduct
